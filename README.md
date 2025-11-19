@@ -2,8 +2,8 @@
 
 Software Developer | Programming Instructor | HCI & Visualization Researcher (PhD/MSc Fall 2026 Applicant)
 
-With 9+ years of experience in software engineering, teaching, and user-centered system design, I specialize in building accessible, interactive, and human-focused digital tools.  
-I founded the Farayaneh Educational Institute, where I have trained 1,500+ students with a 70% employment rate in tech.  
+With 9+ years of experience in software engineering, teaching, and user-centered system design, I specialize in building accessible, interactive, and human-focused digital tools. 
+I founded the [Farayaneh Educational Institute](https://farrayane.ir), where I have trained 1,500+ students with a 70% employment rate in tech. 
 My research interests lie in Human–Computer Interaction, Interactive Visualization, Digital Health, and Creativity-Support Tools.
 
 ---
